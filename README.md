@@ -1,4 +1,4 @@
-at
-==
+atlib
+=====
 
-at: a standard library of active types for ace
+atlib: a standard library of active types for atlang
